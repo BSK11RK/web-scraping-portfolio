@@ -71,6 +71,7 @@ Webスクレイピング & 天気データ可視化ポートフォリオ
 Webスクレイピングのご相談はお気軽にどうぞ。  
 要件に合わせて柔軟に対応いたします。
 
-- email: nanndemo141@gmail.com 
+- email: (nanndemo141@gmail.com) 
 
-- GitHub: （任意）  
+- GitHub:　(https://github.com/BSK11RK)
+
