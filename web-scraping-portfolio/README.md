@@ -16,15 +16,16 @@ Webスクレイピング & 天気データ可視化ポートフォリオ
 
 1. 技術スタック
 
-- Python（文法基礎は一通り習得済み）
-- Webスクレイピング・自動化
+- **Python**（文法基礎は一通り習得済み）
+- **Webスクレイピング・自動化**
   - 静的ページ: `requests`, `BeautifulSoup4`
   - 動的ページ: `Selenium`, `Playwright`（勉強中）
-- データ処理・可視化: `pandas`, `matplotlib`
-- フロントエンド基礎: HTML, CSS, JavaScript
-- Webアプリ作成: Flask, Django, Pygame など（簡単なアプリやゲーム作成経験あり）
-- CSV / Json / Excel 出力
-- 翻訳・多言語対応（勉強中）: `googletrans`, `DeepL`
+- **データ処理・可視化**: `pandas`, `matplotlib`
+- **フロントエンド基礎**: HTML, CSS, JavaScript
+- **Webアプリ作成**: Flask, Django, Pygame（簡単なアプリ・ゲーム作成経験あり）
+- **CSV / JSON / Excel 出力**
+- **翻訳・多言語対応（勉強中）**: `googletrans`, `DeepL`
+
 
 ---
 
@@ -74,4 +75,5 @@ Webスクレイピングのご相談はお気軽にどうぞ。
 - email: (nanndemo141@gmail.com) 
 
 - GitHub:　(https://github.com/BSK11RK)
+
 
