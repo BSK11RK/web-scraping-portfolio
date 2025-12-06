@@ -16,14 +16,25 @@
 ## 1. 技術スタック
 
 - **Python**（文法基礎は一通り習得済み）
+
 - **Webスクレイピング・自動化**
   - 静的ページ: `requests`, `BeautifulSoup4`
   - 動的ページ: `Selenium`, `Playwright`（勉強中）
-- **データ処理・可視化**: `pandas`, `matplotlib`
-- **フロントエンド基礎**: HTML, CSS, JavaScript
-- **Webアプリ作成**: Flask, Django, Pygame（簡単なアプリ・ゲーム制作経験あり）
+
+- **データ処理・可視化**  
+  `pandas`, `matplotlib`
+
+- **フロントエンド基礎**  
+  HTML, CSS, JavaScript
+
+- **Webアプリ作成**  
+  Flask, Django, Pygame（簡単なアプリ・ゲーム制作経験あり）
+
 - **CSV / JSON / Excel 出力**
-- **翻訳・多言語対応（勉強中）**: `googletrans`, `DeepL`
+
+- **翻訳・多言語対応（勉強中）**  
+  `googletrans`, `DeepL`
+
 
 ---
 
@@ -72,4 +83,5 @@ Webスクレイピングに関するご相談はお気軽にどうぞ。
 
 - **Email:** nanndemo141@gmail.com  
 - **GitHub:** https://github.com/BSK11RK  
+
 
