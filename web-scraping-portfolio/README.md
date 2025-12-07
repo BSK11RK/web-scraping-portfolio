@@ -28,7 +28,7 @@
   HTML, CSS, JavaScript
 
 - **Webアプリ作成**  
-  Flask, Django, Pygame, Pyxcel（簡単なアプリ・ゲーム制作経験あり）
+  Flask, Django, Pygame, Pyxel（簡単なアプリ・ゲーム制作経験あり）
 
 - **CSV / JSON / Excel 出力**
 
@@ -84,6 +84,7 @@ Webスクレイピングに関するご相談はお気軽にどうぞ。
 
 - **Email:** nanndemo141@gmail.com  
 - **GitHub:** https://github.com/BSK11RK  
+
 
 
 
