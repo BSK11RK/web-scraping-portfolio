@@ -1,0 +1,602 @@
+[
+  {
+    "quote_en":"“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”",
+    "quote_ja":"「私たちが作り上げた世界は、私たちの思考の過程です。私たちの思考を変えずに世界を変えることはできません。」",
+    "author":"Albert Einstein",
+    "tags":"change, deep-thoughts, thinking, world"
+  },
+  {
+    "quote_en":"“It is our choices, Harry, that show what we truly are, far more than our abilities.”",
+    "quote_ja":"「ハリー、私たちの選択こそが、私たちの能力よりもはるかに本当の私たちを示すのです。」",
+    "author":"J.K. Rowling",
+    "tags":"abilities, choices"
+  },
+  {
+    "quote_en":"“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
+    "quote_ja":"「人生を生きるには2つの方法しかありません。1つは、何も奇跡ではないかのようにすることです。もう1つは、すべてが奇跡であるかのように生きることです。」",
+    "author":"Albert Einstein",
+    "tags":"inspirational, life, live, miracle, miracles"
+  },
+  {
+    "quote_en":"“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",
+    "quote_ja":"「紳士であろうと淑女であろうと、良い小説を楽しめない人は、耐えられないほど愚かであるに違いない。」",
+    "author":"Jane Austen",
+    "tags":"aliteracy, books, classic, humor"
+  },
+  {
+    "quote_en":"“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",
+    "quote_ja":"「不完全さは美しさであり、狂気は天才であり、絶対に退屈であるよりは絶対にばかばかしいほうが良いのです。」",
+    "author":"Marilyn Monroe",
+    "tags":"be-yourself, inspirational"
+  },
+  {
+    "quote_en":"“Try not to become a man of success. Rather become a man of value.”",
+    "quote_ja":"「成功者になろうとするのではなく、価値のある人間になりなさい。」",
+    "author":"Albert Einstein",
+    "tags":"adulthood, success, value"
+  },
+  {
+    "quote_en":"“It is better to be hated for what you are than to be loved for what you are not.”",
+    "quote_ja":"「ありのままの自分で愛されるよりも、ありのままの自分で嫌われるほうがいい。」",
+    "author":"André Gide",
+    "tags":"life, love"
+  },
+  {
+    "quote_en":"“I have not failed. I've just found 10,000 ways that won't work.”",
+    "quote_ja":"「私は失敗したわけではありません。うまくいかない方法を 10,000 個見つけただけです。」",
+    "author":"Thomas A. Edison",
+    "tags":"edison, failure, inspirational, paraphrased"
+  },
+  {
+    "quote_en":"“A woman is like a tea bag; you never know how strong it is until it's in hot water.”",
+    "quote_ja":"「女性はティーバッグのようなものです。お湯に入れるまでは、その強さはわかりません。」",
+    "author":"Eleanor Roosevelt",
+    "tags":"misattributed-eleanor-roosevelt"
+  },
+  {
+    "quote_en":"“A day without sunshine is like, you know, night.”",
+    "quote_ja":"「太陽の光がない日は、夜のようなものです。」",
+    "author":"Steve Martin",
+    "tags":"humor, obvious, simile"
+  },
+  {
+    "quote_en":"“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”",
+    "quote_ja":"「この人生は自分で作るもの。何があろうとも、時にはめちゃくちゃにすることもある、それは普遍的な真実だ。でも、いいところは、どうやってめちゃくちゃにするかは自分で決められることだ。女の子は友達になるだろうし、どうせそのように振る舞うだろう。でも、覚えておいてほしい、来る人もいるし、去っていく人もいる。何があっても一緒にいてくれる人は、本当の親友だ。手放さないでね。また覚えておいてほしい、姉妹は世界で最高の友達を作るんだよ。恋人同士なら、まあ、言いたくないけど、そのほとんどがあなたの心を壊すことになるけど、諦めたら自分を元気にしてくれる相手を決して見つけることはできないし、一度失敗したからといって、すべてにおいて失敗するわけではないから、いつも、いつも、自分を信じてね。だから、顔を上げて、あごを上げて、そして最も重要なことに、笑顔を絶やさないでください。なぜなら、人生は美しいものであり、笑うべきことがたくさんあるからです。」",
+    "author":"Marilyn Monroe",
+    "tags":"friends, heartbreak, inspirational, life, love, sisters"
+  },
+  {
+    "quote_en":"“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”",
+    "quote_ja":"「敵に立ち向かうには大変な勇気が必要ですが、友人に立ち向かうにも同じくらい勇気が必要です。」",
+    "author":"J.K. Rowling",
+    "tags":"courage, friends"
+  },
+  {
+    "quote_en":"“If you can't explain it to a six year old, you don't understand it yourself.”",
+    "quote_ja":"「6歳児に説明できないのは、自分自身も理解していないということだ。」",
+    "author":"Albert Einstein",
+    "tags":"simplicity, understand"
+  },
+  {
+    "quote_en":"“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”",
+    "quote_ja":"「あなたは彼女の最初でも、最後でも、彼女だけでもないかもしれません。彼女は再び愛する前から愛していました。でも、今あなたを愛しているなら、他に何が重要ですか？ 彼女は完璧ではありません。あなたも完璧ではありませんし、二人が一緒にいることも決して完璧ではないかもしれません。しかし、彼女があなたを笑わせ、考え直させ、人間であることと間違いを認めることができるなら、彼女を抱きしめて、あなたができる限りのことを彼女に捧げてください。彼女は一日中あなたのことを毎秒考えているわけではないかもしれませんが、彼女はあなたにできると知っている彼女の一部をあなたに与えてくれるでしょう」彼女の心を傷つけないでください、彼女を変えないでください、分析しないでください、そして彼女があなたを幸せにしてくれるときは微笑み、彼女があなたを怒らせているときは彼女に知らせてください、そして彼女がいないときは彼女がいなくて寂しいです。",
+    "author":"Bob Marley",
+    "tags":"love"
+  },
+  {
+    "quote_en":"“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”",
+    "quote_ja":"「私はナンセンスが好きです。それは脳細胞を目覚めさせます。ファンタジーは生きる上で必要な要素です。」",
+    "author":"Dr. Seuss",
+    "tags":"fantasy"
+  },
+  {
+    "quote_en":"“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”",
+    "quote_ja":"「意図していた場所には行けなかったかもしれないが、行くべき場所にはたどり着いたと思う。」",
+    "author":"Douglas Adams",
+    "tags":"life, navigation"
+  },
+  {
+    "quote_en":"“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”",
+    "quote_ja":"「愛の反対は憎しみではなく、無関心です。芸術の反対は醜さではなく、無関心です。信仰の反対は異端ではなく、無関心です。そして人生の反対は死ではなく、無関心です。」",
+    "author":"Elie Wiesel",
+    "tags":"activism, apathy, hate, indifference, inspirational, love, opposite, philosophy"
+  },
+  {
+    "quote_en":"“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”",
+    "quote_ja":"「不幸な結婚生活を生み出すのは愛の欠如ではなく、友情の欠如です。」",
+    "author":"Friedrich Nietzsche",
+    "tags":"friendship, lack-of-friendship, lack-of-love, love, marriage, unhappy-marriage"
+  },
+  {
+    "quote_en":"“Good friends, good books, and a sleepy conscience: this is the ideal life.”",
+    "quote_ja":"「良い友達、良い本、そして眠そうな良心。これが理想的な人生です。」",
+    "author":"Mark Twain",
+    "tags":"books, contentment, friends, friendship, life"
+  },
+  {
+    "quote_en":"“Life is what happens to us while we are making other plans.”",
+    "quote_ja":"「人生とは、私たちが他の計画を立てている間に起こるものです。」",
+    "author":"Allen Saunders",
+    "tags":"fate, life, misattributed-john-lennon, planning, plans"
+  },
+  {
+    "quote_en":"“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”",
+    "quote_ja":"「私はあなたを、どのように、いつ、どこからか知らずに愛します。問題もプライドもなく、ただ単純にあなたを愛します。私はこの方法以外に愛する方法を知らないからです。その中で私もあなたも存在しないので、胸に置いたあなたの手が私の手になるほど親密で、私が眠りにつくときあなたの目を閉じるほど親密です。」",
+    "author":"Pablo Neruda",
+    "tags":"love, poetry"
+  },
+  {
+    "quote_en":"“For every minute you are angry you lose sixty seconds of happiness.”",
+    "quote_ja":"「あなたが怒っている1分ごとに、60秒間の幸福が失われます。」",
+    "author":"Ralph Waldo Emerson",
+    "tags":"happiness"
+  },
+  {
+    "quote_en":"“If you judge people, you have no time to love them.”",
+    "quote_ja":"「人を裁いていると、人を愛する時間がなくなってしまいます。」",
+    "author":"Mother Teresa",
+    "tags":"attributed-no-source"
+  },
+  {
+    "quote_en":"“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”",
+    "quote_ja":"「教会に座っていればクリスチャンになれると考える人は、ガレージに座っていれば車になれると考えているに違いありません。」",
+    "author":"Garrison Keillor",
+    "tags":"humor, religion"
+  },
+  {
+    "quote_en":"“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”",
+    "quote_ja":"「美しさは見る人の目にあり、時には愚かな、あるいは誤った情報を持った見る人に黒い目を与えることも必要かもしれません。」",
+    "author":"Jim Henson",
+    "tags":"humor"
+  },
+  {
+    "quote_en":"“Today you are You, that is truer than true. There is no one alive who is Youer than You.”",
+    "quote_ja":"「今日、あなたはあなたです。それは真実以上に真実です。生きている中であなたよりもあなたである人は誰もいません。」",
+    "author":"Dr. Seuss",
+    "tags":"comedy, life, yourself"
+  },
+  {
+    "quote_en":"“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”",
+    "quote_ja":"「子供たちに賢くなってほしいなら、おとぎ話を読んであげてください。もっと賢くなってほしいなら、もっとおとぎ話を読んでください。」",
+    "author":"Albert Einstein",
+    "tags":"children, fairy-tales"
+  },
+  {
+    "quote_en":"“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.”",
+    "quote_ja":"「何かに失敗せずに生きることは不可能です。まったく生きていなかったのと同じくらい慎重に生きない限り、その場合、あなたはデフォルトで失敗します。」",
+    "author":"J.K. Rowling",
+    "tags":""
+  },
+  {
+    "quote_en":"“Logic will get you from A to Z; imagination will get you everywhere.”",
+    "quote_ja":"「論理はあなたを A から Z まで連れて行ってくれますが、想像力はあなたをどこにでも連れて行ってくれます。」",
+    "author":"Albert Einstein",
+    "tags":"imagination"
+  },
+  {
+    "quote_en":"“One good thing about music, when it hits you, you feel no pain.”",
+    "quote_ja":"「音楽の良いところは、音楽に触れても痛みを感じないことです。」",
+    "author":"Bob Marley",
+    "tags":"music"
+  },
+  {
+    "quote_en":"“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”",
+    "quote_ja":"「読めば読むほど、より多くのことを知ることができます。学べば学ぶほど、より多くの場所に行くことができます。」",
+    "author":"Dr. Seuss",
+    "tags":"learning, reading, seuss"
+  },
+  {
+    "quote_en":"“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”",
+    "quote_ja":"「もちろん、それはあなたの頭の中で起こっています、ハリー、しかし一体なぜそれが現実ではないことを意味するのでしょうか？」",
+    "author":"J.K. Rowling",
+    "tags":"dumbledore"
+  },
+  {
+    "quote_en":"“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”",
+    "quote_ja":"「真実を言うと、誰もがあなたを傷つけようとしています。あなたはただ、そのために苦しむ価値のある人を見つけなければなりません。」",
+    "author":"Bob Marley",
+    "tags":"friendship"
+  },
+  {
+    "quote_en":"“Not all of us can do great things. But we can do small things with great love.”",
+    "quote_ja":"「私たち全員が素晴らしいことをできるわけではありません。しかし、大きな愛を持って小さなことをすることはできます。」",
+    "author":"Mother Teresa",
+    "tags":"misattributed-to-mother-teresa, paraphrased"
+  },
+  {
+    "quote_en":"“To the well-organized mind, death is but the next great adventure.”",
+    "quote_ja":"「よく整理された心にとって、死は次の大きな冒険にすぎません。」",
+    "author":"J.K. Rowling",
+    "tags":"death, inspirational"
+  },
+  {
+    "quote_en":"“All you need is love. But a little chocolate now and then doesn't hurt.”",
+    "quote_ja":"「必要なのは愛だけ。でも、たまにはチョコレートを少し食べるのも悪くないよ。」",
+    "author":"Charles M. Schulz",
+    "tags":"chocolate, food, humor"
+  },
+  {
+    "quote_en":"“We read to know we're not alone.”",
+    "quote_ja":"「私たちは一人ではないことを知るために本を読みます。」",
+    "author":"William Nicholson",
+    "tags":"misattributed-to-c-s-lewis, reading"
+  },
+  {
+    "quote_en":"“Any fool can know. The point is to understand.”",
+    "quote_ja":"「どんな愚か者でも分かる。重要なのは理解することだ。」",
+    "author":"Albert Einstein",
+    "tags":"knowledge, learning, understanding, wisdom"
+  },
+  {
+    "quote_en":"“I have always imagined that Paradise will be a kind of library.”",
+    "quote_ja":"「パラダイスは一種の図書館になるだろうといつも想像していました。」",
+    "author":"Jorge Luis Borges",
+    "tags":"books, library"
+  },
+  {
+    "quote_en":"“It is never too late to be what you might have been.”",
+    "quote_ja":"「なりたかった自分になるのに遅すぎるということはありません。」",
+    "author":"George Eliot",
+    "tags":"inspirational"
+  },
+  {
+    "quote_en":"“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”",
+    "quote_ja":"「読書家は死ぬまでに千の人生を生きる、とジョジェンは言いました。まったく本を読まない人は、たった一度の人生しか生きません。」",
+    "author":"George R.R. Martin",
+    "tags":"read, readers, reading, reading-books"
+  },
+  {
+    "quote_en":"“You can never get a cup of tea large enough or a book long enough to suit me.”",
+    "quote_ja":"「私に合う大きさの一杯のお茶や十分な長さの本を手に入れることは決してできません。」",
+    "author":"C.S. Lewis",
+    "tags":"books, inspirational, reading, tea"
+  },
+  {
+    "quote_en":"“You believe lies so you eventually learn to trust no one but yourself.”",
+    "quote_ja":"「あなたは嘘を信じているので、最終的には自分以外は誰も信じられなくなるのです。」",
+    "author":"Marilyn Monroe",
+    "tags":""
+  },
+  {
+    "quote_en":"“If you can make a woman laugh, you can make her do anything.”",
+    "quote_ja":"「女性を笑わせることができれば、彼女に何でもさせることができます。」",
+    "author":"Marilyn Monroe",
+    "tags":"girls, love"
+  },
+  {
+    "quote_en":"“Life is like riding a bicycle. To keep your balance, you must keep moving.”",
+    "quote_ja":"「人生は自転車に乗るようなものです。バランスを保つためには動き続けなければなりません。」",
+    "author":"Albert Einstein",
+    "tags":"life, simile"
+  },
+  {
+    "quote_en":"“The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”",
+    "quote_ja":"「本当の恋人とは、額にキスしたり、あなたの目に微笑みかけたり、ただ宇宙を見つめたりするだけであなたを興奮させられる男性です。」",
+    "author":"Marilyn Monroe",
+    "tags":"love"
+  },
+  {
+    "quote_en":"“A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.”",
+    "quote_ja":"「賢い少女はキスはするが愛さず、耳を傾けるが信じず、去っていく前に去ってしまう。」",
+    "author":"Marilyn Monroe",
+    "tags":"attributed-no-source"
+  },
+  {
+    "quote_en":"“Only in the darkness can you see the stars.”",
+    "quote_ja":"「暗闇の中でのみ星が見えるのです。」",
+    "author":"Martin Luther King Jr.",
+    "tags":"hope, inspirational"
+  },
+  {
+    "quote_en":"“It matters not what someone is born, but what they grow to be.”",
+    "quote_ja":"「人がどのような形で生まれたかではなく、どのような成長を遂げるかが重要なのです。」",
+    "author":"J.K. Rowling",
+    "tags":"dumbledore"
+  },
+  {
+    "quote_en":"“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”",
+    "quote_ja":"「愛は私たちが思っているように始まり、終わるわけではありません。愛は戦いであり、愛は戦争です。愛は成長するものです。」",
+    "author":"James Baldwin",
+    "tags":"love"
+  },
+  {
+    "quote_en":"“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”",
+    "quote_ja":"「本当に友達である人たちに対してやらないことは何もありません。私には人を半分で愛するという考えはありません。それは私の性質ではありません。」",
+    "author":"Jane Austen",
+    "tags":"friendship, love"
+  },
+  {
+    "quote_en":"“Do one thing every day that scares you.”",
+    "quote_ja":"「毎日、自分を怖がらせることを一つやりなさい。」",
+    "author":"Eleanor Roosevelt",
+    "tags":"attributed, fear, inspiration"
+  },
+  {
+    "quote_en":"“I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”",
+    "quote_ja":"「私は善良ですが、天使ではありません。私は罪を犯しますが、悪魔ではありません。私は広い世界で、愛する人を見つけようとしている小さな女の子にすぎません。」",
+    "author":"Marilyn Monroe",
+    "tags":"attributed-no-source"
+  },
+  {
+    "quote_en":"“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”",
+    "quote_ja":"「私が物理学者でなかったら、おそらくミュージシャンになっていたでしょう。私は音楽の中で考えることがよくあります。私は音楽の中で空想を生きています。私は自分の人生を音楽の観点から見ています。」",
+    "author":"Albert Einstein",
+    "tags":"music"
+  },
+  {
+    "quote_en":"“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”",
+    "quote_ja":"「他の人が読んでいる本しか読んでいないと、他の人が考えていることしか考えることができません。」",
+    "author":"Haruki Murakami",
+    "tags":"books, thought"
+  },
+  {
+    "quote_en":"“The difference between genius and stupidity is: genius has its limits.”",
+    "quote_ja":"「天才と愚かさの違いは、天才には限界があるということだ。」",
+    "author":"Alexandre Dumas fils",
+    "tags":"misattributed-to-einstein"
+  },
+  {
+    "quote_en":"“He's like a drug for you, Bella.”",
+    "quote_ja":"「ベラ、彼はあなたにとって麻薬のようなものです。」",
+    "author":"Stephenie Meyer",
+    "tags":"drug, romance, simile"
+  },
+  {
+    "quote_en":"“There is no friend as loyal as a book.”",
+    "quote_ja":"「本ほど忠実な友人はいない。」",
+    "author":"Ernest Hemingway",
+    "tags":"books, friends, novelist-quotes"
+  },
+  {
+    "quote_en":"“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”",
+    "quote_ja":"「幸福の扉が閉まると、別の扉が開きます。しかし、私たちは閉ざされた扉をずっと眺めているあまり、開かれた扉が見えないことがよくあります。」",
+    "author":"Helen Keller",
+    "tags":"inspirational"
+  },
+  {
+    "quote_en":"“Life isn't about finding yourself. Life is about creating yourself.”",
+    "quote_ja":"「人生は自分を見つけることではありません。人生は自分を創造することです。」",
+    "author":"George Bernard Shaw",
+    "tags":"inspirational, life, yourself"
+  },
+  {
+    "quote_en":"“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”",
+    "quote_ja":"「これが飲酒の問題だ、と酒を注ぎながら思った。何か悪いことが起こったら忘れようとして酒を飲むし、何か良いことがあれば祝うために酒を飲み、何も起こらなければ何かを起こすために酒を飲む。」",
+    "author":"Charles Bukowski",
+    "tags":"alcohol"
+  },
+  {
+    "quote_en":"“You don’t forget the face of the person who was your last hope.”",
+    "quote_ja":"「最後の希望だった人の顔は忘れられない。」",
+    "author":"Suzanne Collins",
+    "tags":"the-hunger-games"
+  },
+  {
+    "quote_en":"“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”",
+    "quote_ja":"「覚えておいてください、私たちは夢中で愛し合っているので、その気になればいつでもキスしても大丈夫です。」",
+    "author":"Suzanne Collins",
+    "tags":"humor"
+  },
+  {
+    "quote_en":"“To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”",
+    "quote_ja":"「愛するということは、傷つきやすくなるということだ。何かを愛すると、心はひしひしと傷つき、壊れるかもしれない。それを無傷で保ちたいなら、誰にも、たとえ動物にも渡さないようにしなければならない。趣味やささやかな贅沢で慎重に包み、あらゆるもつれを避けなさい。自分勝手な棺や棺に安全に閉じ込めてください。しかし、その棺の中で、安全で、暗く、動かず、空気もなく、それは変わります。それは壊れません。それは変わります。壊れることのない、不可解な、救いようのないものを愛するということは、傷つきやすいことなのです。」",
+    "author":"C.S. Lewis",
+    "tags":"love"
+  },
+  {
+    "quote_en":"“Not all those who wander are lost.”",
+    "quote_ja":"「さまよう人全員が道に迷っているわけではない。」",
+    "author":"J.R.R. Tolkien",
+    "tags":"bilbo, journey, lost, quest, travel, wander"
+  },
+  {
+    "quote_en":"“Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”",
+    "quote_ja":"「死んだ人を憐れんではいけません、ハリー。生きている人を憐れんでください、そして何よりも愛なしに生きている人たちを憐れんでください。」",
+    "author":"J.K. Rowling",
+    "tags":"live-death-love"
+  },
+  {
+    "quote_en":"“There is nothing to writing. All you do is sit down at a typewriter and bleed.”",
+    "quote_ja":"「書くことは何もありません。タイプライターに座って血を流すだけです。」",
+    "author":"Ernest Hemingway",
+    "tags":"good, writing"
+  },
+  {
+    "quote_en":"“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”",
+    "quote_ja":"「一日一日を終えて、それで終わりだ。あなたはできる限りのことをした。間違いや不条理が忍び込んでいることは間違いない。できるだけ早く忘れなさい。明日は新しい日だ。あなたは、古いくだらないことに煩わされないよう、穏やかに、そして非常に高い精神で一日を始めなければならない。」",
+    "author":"Ralph Waldo Emerson",
+    "tags":"life, regrets"
+  },
+  {
+    "quote_en":"“I have never let my schooling interfere with my education.”",
+    "quote_ja":"「私は学校教育を決して妨げたことはありません。」",
+    "author":"Mark Twain",
+    "tags":"education"
+  },
+  {
+    "quote_en":"“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!”",
+    "quote_ja":"「複数の種類のトラブルがあると聞いています。前から来るものもあれば、後ろから来るものもあります。でも、私は大きなバットを買いました。準備はすべて整っています。わかってください。今、私のトラブルは私にもトラブルをもたらすでしょう！」",
+    "author":"Dr. Seuss",
+    "tags":"troubles"
+  },
+  {
+    "quote_en":"“If I had a flower for every time I thought of you...I could walk through my garden forever.”",
+    "quote_ja":"「あなたのことを考えるたびに花があれば…永遠に庭を歩けるのに。」",
+    "author":"Alfred Tennyson",
+    "tags":"friendship, love"
+  },
+  {
+    "quote_en":"“Some people never go crazy. What truly horrible lives they must lead.”",
+    "quote_ja":"「決して狂わない人もいます。彼らは本当に恐ろしい人生を送らなければなりません。」",
+    "author":"Charles Bukowski",
+    "tags":"humor"
+  },
+  {
+    "quote_en":"“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”",
+    "quote_ja":"「もちろん、オープンな心を持つことの問題点は、人々が固執して自分の考えに従おうとすることです。」",
+    "author":"Terry Pratchett",
+    "tags":"humor, open-mind, thinking"
+  },
+  {
+    "quote_en":"“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”",
+    "quote_ja":"「左に考えて右に考え、低く考えて高く考える。ああ、努力すれば思いつくことができると思います！」",
+    "author":"Dr. Seuss",
+    "tags":"humor, philosophy"
+  },
+  {
+    "quote_en":"“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”",
+    "quote_ja":"「私を本当に驚かせたのは、読み終わった後、この本を書いた著者が自分の素晴らしい友人で、気が向いたときにいつでも電話で連絡できたらいいのにと思う本です。でも、そんなことはあまり起こりません。」",
+    "author":"J.D. Salinger",
+    "tags":"authors, books, literature, reading, writing"
+  },
+  {
+    "quote_en":"“The reason I talk to myself is because I’m the only one whose answers I accept.”",
+    "quote_ja":"「私が独り言を言うのは、私がその答えを受け入れるのは私だけだからです。」",
+    "author":"George Carlin",
+    "tags":"humor, insanity, lies, lying, self-indulgence, truth"
+  },
+  {
+    "quote_en":"“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”",
+    "quote_ja":"「あなたは私を夢想家だと言うかもしれませんが、私だけではありません。いつかあなたも私たちに加わってほしいと願っています。そうすれば世界は一つになって生きます。」",
+    "author":"John Lennon",
+    "tags":"beatles, connection, dreamers, dreaming, dreams, hope, inspirational, peace"
+  },
+  {
+    "quote_en":"“I am free of all prejudice. I hate everyone equally. ”",
+    "quote_ja":"「私には一切の偏見がありません。私は誰もが平等に嫌いです。」",
+    "author":"W.C. Fields",
+    "tags":"humor, sinister"
+  },
+  {
+    "quote_en":"“The question isn't who is going to let me; it's who is going to stop me.”",
+    "quote_ja":"「問題は誰が私を許可するかではなく、誰が私を止めるかだ。」",
+    "author":"Ayn Rand",
+    "tags":""
+  },
+  {
+    "quote_en":"“′Classic′ - a book which people praise and don't read.”",
+    "quote_ja":"「『古典』――人々は称賛するが読まれない本。」",
+    "author":"Mark Twain",
+    "tags":"books, classic, reading"
+  },
+  {
+    "quote_en":"“Anyone who has never made a mistake has never tried anything new.”",
+    "quote_ja":"「一度も間違いを犯したことがない人は、何か新しいことに挑戦したことがない。」",
+    "author":"Albert Einstein",
+    "tags":"mistakes"
+  },
+  {
+    "quote_en":"“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”",
+    "quote_ja":"「女性の想像力は非常に速く、憧れから愛へ、愛から結婚へと一瞬のうちに飛び移ります。」",
+    "author":"Jane Austen",
+    "tags":"humor, love, romantic, women"
+  },
+  {
+    "quote_en":"“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”",
+    "quote_ja":"「覚えておいてください、何が正しいのか、何が簡単なのかの選択をしなければならない時が来たら、善良で親切で勇敢な少年がヴォルデモート卿の道を誤ったために何が起こったのかを思い出してください。セドリック・ディゴリーを思い出してください。」",
+    "author":"J.K. Rowling",
+    "tags":"integrity"
+  },
+  {
+    "quote_en":"“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”",
+    "quote_ja":"「結局のところ、読書ほど楽しいものはないと断言します。本よりも何事にも飽きるのが早いのです！――自分の家を持っても、優れた図書館がなかったら、私は惨めになるでしょう。」",
+    "author":"Jane Austen",
+    "tags":"books, library, reading"
+  },
+  {
+    "quote_en":"“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”",
+    "quote_ja":"「私が本当に愛している人はほとんどいないし、良いと思える人もさらに少ない。世界を見れば見るほど不満が募る。人間の性格には一貫性がないこと、また、外見上の功績や分別への依存はほとんどないという私の信念を毎日確信している。」",
+    "author":"Jane Austen",
+    "tags":"elizabeth-bennet, jane-austen"
+  },
+  {
+    "quote_en":"“Some day you will be old enough to start reading fairy tales again.”",
+    "quote_ja":"「いつかあなたも大人になって、またおとぎ話を読み始めるでしょう。」",
+    "author":"C.S. Lewis",
+    "tags":"age, fairytales, growing-up"
+  },
+  {
+    "quote_en":"“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”",
+    "quote_ja":"「私たちは、神が私たちに最善を尽くしてくださるということを必ずしも疑っているわけではありません。最善のことがどれほど苦痛になるかを私たちは疑問に思っています。」",
+    "author":"C.S. Lewis",
+    "tags":"god"
+  },
+  {
+    "quote_en":"“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”",
+    "quote_ja":"「死の恐怖は、生の恐怖から生まれます。全力で生きている人はいつでも死ぬ準備ができています。」",
+    "author":"Mark Twain",
+    "tags":"death, life"
+  },
+  {
+    "quote_en":"“A lie can travel half way around the world while the truth is putting on its shoes.”",
+    "quote_ja":"「真実が靴を履いている間に、嘘は地球を半周することもある。」",
+    "author":"Mark Twain",
+    "tags":"misattributed-mark-twain, truth"
+  },
+  {
+    "quote_en":"“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”",
+    "quote_ja":"「太陽が昇ったと信じるのと同じように、私はキリスト教を信じます。それは太陽が見えるからだけではなく、太陽を通して他のすべてが見えるからです。」",
+    "author":"C.S. Lewis",
+    "tags":"christianity, faith, religion, sun"
+  },
+  {
+    "quote_en":"“The truth.\" Dumbledore sighed. \"It is a beautiful and terrible thing, and should therefore be treated with great caution.”",
+    "quote_ja":"\"真実。\"ダンブルドアはため息をついた。 「これは美しく恐ろしいものであるため、細心の注意を払って扱う必要があります。」",
+    "author":"J.K. Rowling",
+    "tags":"truth"
+  },
+  {
+    "quote_en":"“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”",
+    "quote_ja":"「死ぬ時は死ぬのは自分なんだから、好きなように生きさせてよ」。",
+    "author":"Jimi Hendrix",
+    "tags":"death, life"
+  },
+  {
+    "quote_en":"“To die will be an awfully big adventure.”",
+    "quote_ja":"「死ぬというのは、とてつもなく大きな冒険になるだろう。」",
+    "author":"J.M. Barrie",
+    "tags":"adventure, love"
+  },
+  {
+    "quote_en":"“It takes courage to grow up and become who you really are.”",
+    "quote_ja":"「成長して本当の自分になるには勇気が必要です。」",
+    "author":"E.E. Cummings",
+    "tags":"courage"
+  },
+  {
+    "quote_en":"“But better to get hurt by the truth than comforted with a lie.”",
+    "quote_ja":"「しかし、嘘で慰められるよりは、真実で傷つく方が良いのです。」",
+    "author":"Khaled Hosseini",
+    "tags":"life"
+  },
+  {
+    "quote_en":"“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”",
+    "quote_ja":"「その人の視点から物事を考えるまでは、その人のことを本当に理解することはできません。その人の肌の中に入り込み、その中を歩き回るまでは。」",
+    "author":"Harper Lee",
+    "tags":"better-life-empathy"
+  },
+  {
+    "quote_en":"“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”",
+    "quote_ja":"「書きたい本を書かなければなりません。そして、その本が大人にとって難しすぎるなら、子供向けに書けばいいのです。」",
+    "author":"Madeleine L'Engle",
+    "tags":"books, children, difficult, grown-ups, write, writers, writing"
+  },
+  {
+    "quote_en":"“Never tell the truth to people who are not worthy of it.”",
+    "quote_ja":"「真実を語る価値のない人には決して真実を語ってはいけない。」",
+    "author":"Mark Twain",
+    "tags":"truth"
+  },
+  {
+    "quote_en":"“A person's a person, no matter how small.”",
+    "quote_ja":"「どんなに小さくても人は人。」",
+    "author":"Dr. Seuss",
+    "tags":"inspirational"
+  },
+  {
+    "quote_en":"“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”",
+    "quote_ja":"「……刃を保つためには、剣に砥石が必要なように、心にも本が必要だ。」",
+    "author":"George R.R. Martin",
+    "tags":"books, mind"
+  }
+]
