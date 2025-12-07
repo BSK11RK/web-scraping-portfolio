@@ -1,4 +1,4 @@
-import requests
+import requests, json
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 import pandas as pd
@@ -50,9 +50,12 @@ df = pd.DataFrame(data_list)
 df.to_csv("books.csv", index=False, encoding="utf-8-sig")
 
 # JSON保存
-df.to_json("books.json", orient="records", force_ascii=False)
+with open("books.json", "w", encoding="utf-8-sig") as jf:
+    json.dump(data_list, jf, ensure_ascii=False, indent=4)
 
 # Excel保存（文字化け防止）
 df.to_excel("books.xlsx", index=False, engine="openpyxl")
 
 print("CSV / JSON / Excel 保存完了！")
+
+
