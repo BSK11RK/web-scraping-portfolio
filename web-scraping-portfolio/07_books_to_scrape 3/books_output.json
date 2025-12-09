@@ -1,0 +1,802 @@
+﻿[
+  {
+    "title": "A Light in the Attic",
+    "日本語タイトル": "屋根裏部屋の光",
+    "price": "£51.77",
+    "日本円": 9577,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/a-light-in-the-attic_1000/index.html"
+  },
+  {
+    "title": "Tipping the Velvet",
+    "日本語タイトル": "ベルベットを傾ける",
+    "price": "£53.74",
+    "日本円": 9941,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/tipping-the-velvet_999/index.html"
+  },
+  {
+    "title": "Soumission",
+    "日本語タイトル": "提出",
+    "price": "£50.10",
+    "日本円": 9268,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/soumission_998/index.html"
+  },
+  {
+    "title": "Sharp Objects",
+    "日本語タイトル": "鋭利な物体",
+    "price": "£47.82",
+    "日本円": 8846,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/sharp-objects_997/index.html"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "日本語タイトル": "サピエンス: 人類の簡単な歴史",
+    "price": "£54.23",
+    "日本円": 10032,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/sapiens-a-brief-history-of-humankind_996/index.html"
+  },
+  {
+    "title": "The Requiem Red",
+    "日本語タイトル": "レクイエムレッド",
+    "price": "£22.65",
+    "日本円": 4190,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/the-requiem-red_995/index.html"
+  },
+  {
+    "title": "The Dirty Little Secrets of Getting Your Dream Job",
+    "日本語タイトル": "夢の仕事に就くためのちょっとした秘密",
+    "price": "£33.34",
+    "日本円": 6167,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html"
+  },
+  {
+    "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "日本語タイトル": "『The Coming Woman: 悪名高きフェミニスト、ヴィクトリア・ウッドハルの生涯に基づく小説』",
+    "price": "£17.93",
+    "日本円": 3317,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html"
+  },
+  {
+    "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "日本語タイトル": "ザ・ボーイズ・イン・ザ・ボート: 1936 年ベルリンオリンピックでの 9 人のアメリカ人と金メダルの壮大な探求",
+    "price": "£22.60",
+    "日本円": 4181,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html"
+  },
+  {
+    "title": "The Black Maria",
+    "日本語タイトル": "ブラックマリア",
+    "price": "£52.15",
+    "日本円": 9647,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/the-black-maria_991/index.html"
+  },
+  {
+    "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+    "日本語タイトル": "Starving Hearts (三角貿易三部作 #1)",
+    "price": "£13.99",
+    "日本円": 2588,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/starving-hearts-triangular-trade-trilogy-1_990/index.html"
+  },
+  {
+    "title": "Shakespeare's Sonnets",
+    "日本語タイトル": "シェイクスピアのソネット",
+    "price": "£20.66",
+    "日本円": 3822,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/shakespeares-sonnets_989/index.html"
+  },
+  {
+    "title": "Set Me Free",
+    "日本語タイトル": "セット・ミー・フリー",
+    "price": "£17.46",
+    "日本円": 3230,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/set-me-free_988/index.html"
+  },
+  {
+    "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+    "日本語タイトル": "スコット・ピルグリムの貴重な小さな命 (スコット・ピルグリム #1)",
+    "price": "£52.29",
+    "日本円": 9673,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html"
+  },
+  {
+    "title": "Rip it Up and Start Again",
+    "日本語タイトル": "破棄してやり直してください",
+    "price": "£35.02",
+    "日本円": 6478,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/rip-it-up-and-start-again_986/index.html"
+  },
+  {
+    "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "日本語タイトル": "私たちのバンドはあなたの人生になる可能性があります: アメリカン インディー アンダーグラウンドの風景、1981 ～ 1991 年",
+    "price": "£57.25",
+    "日本円": 10591,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html"
+  },
+  {
+    "title": "Olio",
+    "日本語タイトル": "オーリオ",
+    "price": "£23.88",
+    "日本円": 4417,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/olio_984/index.html"
+  },
+  {
+    "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+    "日本語タイトル": "メサエリオン: 最高の SF ストーリー 1800 ～ 1849",
+    "price": "£37.59",
+    "日本円": 6954,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html"
+  },
+  {
+    "title": "Libertarianism for Beginners",
+    "日本語タイトル": "初心者向けの自由主義",
+    "price": "£51.33",
+    "日本円": 9496,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/libertarianism-for-beginners_982/index.html"
+  },
+  {
+    "title": "It's Only the Himalayas",
+    "日本語タイトル": "ヒマラヤだけだよ",
+    "price": "£45.17",
+    "日本円": 8356,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/its-only-the-himalayas_981/index.html"
+  },
+  {
+    "title": "In Her Wake",
+    "日本語タイトル": "彼女の航跡で",
+    "price": "£12.84",
+    "日本円": 2375,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/in-her-wake_980/index.html"
+  },
+  {
+    "title": "How Music Works",
+    "日本語タイトル": "音楽の仕組み",
+    "price": "£37.32",
+    "日本円": 6904,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/how-music-works_979/index.html"
+  },
+  {
+    "title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+    "日本語タイトル": "確実な保存: 小規模バッチのジャム、ゼリー、ピクルス、調味料などのガイド: 小規模バッチのジャム、ゼリー、ピクルス、調味料などの作り方の確実なガイド",
+    "price": "£30.52",
+    "日本円": 5646,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html"
+  },
+  {
+    "title": "Chase Me (Paris Nights #2)",
+    "日本語タイトル": "チェイス・ミー (パリの夜 #2)",
+    "price": "£25.27",
+    "日本円": 4674,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/chase-me-paris-nights-2_977/index.html"
+  },
+  {
+    "title": "Black Dust",
+    "日本語タイトル": "ブラックダスト",
+    "price": "£34.53",
+    "日本円": 6388,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/black-dust_976/index.html"
+  },
+  {
+    "title": "Birdsong: A Story in Pictures",
+    "日本語タイトル": "鳥のさえずり: 写真の中の物語",
+    "price": "£54.64",
+    "日本円": 10108,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/birdsong-a-story-in-pictures_975/index.html"
+  },
+  {
+    "title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+    "日本語タイトル": "アメリカのクォーターバック発祥の地：ジョニー・ユニタスからジョー・モンタナまで、ペンシルベニア西部のフットボール工場",
+    "price": "£22.50",
+    "日本円": 4162,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html"
+  },
+  {
+    "title": "Aladdin and His Wonderful Lamp",
+    "日本語タイトル": "アラジンと不思議なランプ",
+    "price": "£53.13",
+    "日本円": 9829,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/aladdin-and-his-wonderful-lamp_973/index.html"
+  },
+  {
+    "title": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+    "日本語タイトル": "他の世界: シェイクスピアの世界を巡る旅",
+    "price": "£40.30",
+    "日本円": 7455,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html"
+  },
+  {
+    "title": "Wall and Piece",
+    "日本語タイトル": "壁とピース",
+    "price": "£44.18",
+    "日本円": 8173,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/wall-and-piece_971/index.html"
+  },
+  {
+    "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+    "日本語タイトル": "4 つの協定: 個人の自由への実践ガイド",
+    "price": "£17.66",
+    "日本円": 3267,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html"
+  },
+  {
+    "title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+    "日本語タイトル": "5 つの愛の言語: 配偶者に対する心からの献身を表現する方法",
+    "price": "£31.05",
+    "日本円": 5744,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html"
+  },
+  {
+    "title": "The Elephant Tree",
+    "日本語タイトル": "ゾウの木",
+    "price": "£23.82",
+    "日本円": 4406,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/the-elephant-tree_968/index.html"
+  },
+  {
+    "title": "The Bear and the Piano",
+    "日本語タイトル": "クマとピアノ",
+    "price": "£36.89",
+    "日本円": 6824,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/the-bear-and-the-piano_967/index.html"
+  },
+  {
+    "title": "Sophie's World",
+    "日本語タイトル": "ソフィーの世界",
+    "price": "£15.94",
+    "日本円": 2948,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/sophies-world_966/index.html"
+  },
+  {
+    "title": "Penny Maybe",
+    "日本語タイトル": "ペニー・メイビー",
+    "price": "£33.29",
+    "日本円": 6158,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/penny-maybe_965/index.html"
+  },
+  {
+    "title": "Maude (1883-1993):She Grew Up with the country",
+    "日本語タイトル": "モード (1883-1993):彼女は田舎とともに育った",
+    "price": "£18.02",
+    "日本円": 3333,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/maude-1883-1993she-grew-up-with-the-country_964/index.html"
+  },
+  {
+    "title": "In a Dark, Dark Wood",
+    "日本語タイトル": "暗い、暗い森の中で",
+    "price": "£19.63",
+    "日本円": 3631,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/in-a-dark-dark-wood_963/index.html"
+  },
+  {
+    "title": "Behind Closed Doors",
+    "日本語タイトル": "密室で",
+    "price": "£52.22",
+    "日本円": 9660,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/behind-closed-doors_962/index.html"
+  },
+  {
+    "title": "You can't bury them all: Poems",
+    "日本語タイトル": "すべてを埋めることはできない: 詩",
+    "price": "£33.63",
+    "日本円": 6221,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/you-cant-bury-them-all-poems_961/index.html"
+  },
+  {
+    "title": "Slow States of Collapse: Poems",
+    "日本語タイトル": "緩やかな崩壊状態: 詩",
+    "price": "£57.31",
+    "日本円": 10602,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/slow-states-of-collapse-poems_960/index.html"
+  },
+  {
+    "title": "Reasons to Stay Alive",
+    "日本語タイトル": "生き続ける理由",
+    "price": "£26.41",
+    "日本円": 4885,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/reasons-to-stay-alive_959/index.html"
+  },
+  {
+    "title": "Private Paris (Private #10)",
+    "日本語タイトル": "プライベート パリ (プライベート #10)",
+    "price": "£47.61",
+    "日本円": 8807,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/private-paris-private-10_958/index.html"
+  },
+  {
+    "title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+    "日本語タイトル": "#HigherSelfie: 人生を目覚めさせましょう。あなたの魂を解放してください。あなたの部族を見つけてください。",
+    "price": "£23.11",
+    "日本円": 4275,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html"
+  },
+  {
+    "title": "Without Borders (Wanderlove #1)",
+    "日本語タイトル": "国境なし (ワンダーラブ #1)",
+    "price": "£45.07",
+    "日本円": 8337,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/without-borders-wanderlove-1_956/index.html"
+  },
+  {
+    "title": "When We Collided",
+    "日本語タイトル": "衝突したとき",
+    "price": "£31.77",
+    "日本円": 5877,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/when-we-collided_955/index.html"
+  },
+  {
+    "title": "We Love You, Charlie Freeman",
+    "日本語タイトル": "私たちはあなたを愛しています、チャーリー・フリーマン",
+    "price": "£50.27",
+    "日本円": 9299,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/we-love-you-charlie-freeman_954/index.html"
+  },
+  {
+    "title": "Untitled Collection: Sabbath Poems 2014",
+    "日本語タイトル": "無題コレクション: 安息日の詩 2014",
+    "price": "£14.27",
+    "日本円": 2639,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/untitled-collection-sabbath-poems-2014_953/index.html"
+  },
+  {
+    "title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+    "日本語タイトル": "目に見えない都市: ハトの威厳、カタツムリの控えめな魅力、その他の都会の自然の驚異",
+    "price": "£44.18",
+    "日本円": 8173,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html"
+  },
+  {
+    "title": "Unicorn Tracks",
+    "日本語タイトル": "ユニコーントラック",
+    "price": "£18.78",
+    "日本円": 3474,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/unicorn-tracks_951/index.html"
+  },
+  {
+    "title": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+    "日本語タイトル": "アンバウンド: 8 つのテクノロジーがどのようにして私たちを人間にし、社会を変革し、世界を危機に瀕させたのか",
+    "price": "£25.52",
+    "日本円": 4721,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html"
+  },
+  {
+    "title": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+    "日本語タイトル": "ツバサ ワールドクロニクル2 (ツバサ ワールドクロニクル #2)",
+    "price": "£16.28",
+    "日本円": 3011,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html"
+  },
+  {
+    "title": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+    "日本語タイトル": "Google バスに石を投げる: 成長がいかにして繁栄の敵になったか",
+    "price": "£31.12",
+    "日本円": 5757,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html"
+  },
+  {
+    "title": "This One Summer",
+    "日本語タイトル": "このひと夏",
+    "price": "£19.49",
+    "日本円": 3605,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/this-one-summer_947/index.html"
+  },
+  {
+    "title": "Thirst",
+    "日本語タイトル": "渇き",
+    "price": "£17.27",
+    "日本円": 3194,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/thirst_946/index.html"
+  },
+  {
+    "title": "The Torch Is Passed: A Harding Family Story",
+    "日本語タイトル": "聖火が渡される: ハーディング家の物語",
+    "price": "£19.09",
+    "日本円": 3531,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/the-torch-is-passed-a-harding-family-story_945/index.html"
+  },
+  {
+    "title": "The Secret of Dreadwillow Carse",
+    "日本語タイトル": "ドレッドウィロー・カースの秘密",
+    "price": "£56.13",
+    "日本円": 10384,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/the-secret-of-dreadwillow-carse_944/index.html"
+  },
+  {
+    "title": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+    "日本語タイトル": "先駆者の女性が料理する: ディナータイム: コンフォートクラシック、冷凍食品、16 分食事、その他の夕食をおいしく解決する方法!",
+    "price": "£56.41",
+    "日本円": 10435,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html"
+  },
+  {
+    "title": "The Past Never Ends",
+    "日本語タイトル": "過去は決して終わらない",
+    "price": "£56.50",
+    "日本円": 10452,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/the-past-never-ends_942/index.html"
+  },
+  {
+    "title": "The Natural History of Us (The Fine Art of Pretending #2)",
+    "日本語タイトル": "私たちの自然史 (ふりをする芸術 #2)",
+    "price": "£45.22",
+    "日本円": 8365,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html"
+  },
+  {
+    "title": "The Nameless City (The Nameless City #1)",
+    "日本語タイトル": "名前のない都市 (名前のない都市 #1)",
+    "price": "£38.16",
+    "日本円": 7059,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/the-nameless-city-the-nameless-city-1_940/index.html"
+  },
+  {
+    "title": "The Murder That Never Was (Forensic Instincts #5)",
+    "日本語タイトル": "決して存在しなかった殺人 (Forensic Instincts #5)",
+    "price": "£54.11",
+    "日本円": 10010,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/the-murder-that-never-was-forensic-instincts-5_939/index.html"
+  },
+  {
+    "title": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+    "日本語タイトル": "最も完璧なもの: 鳥の卵の内側 (そして外側)",
+    "price": "£42.96",
+    "日本円": 7947,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html"
+  },
+  {
+    "title": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+    "日本語タイトル": "不安に対するマインドフルネスと受容ワークブック: アクセプタンスとコミットメント セラピーを使用して不安、恐怖症、心配から解放されるためのガイド",
+    "price": "£23.89",
+    "日本円": 4419,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html"
+  },
+  {
+    "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+    "日本語タイトル": "人生が変わる片づけの魔法: 日本の片づけと整理術",
+    "price": "£16.77",
+    "日本円": 3102,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html"
+  },
+  {
+    "title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+    "日本語タイトル": "非効率の暗殺者: 長く働くのではなく、より賢く働くための時間管理戦術",
+    "price": "£20.59",
+    "日本円": 3809,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html"
+  },
+  {
+    "title": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+    "日本語タイトル": "ガッツガール: 人生をかけて壮大な冒険を繰り広げるエスケープ",
+    "price": "£37.13",
+    "日本円": 6869,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html"
+  },
+  {
+    "title": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+    "日本語タイトル": "電気鉛筆: 州立病院第 3 内部の図面",
+    "price": "£56.06",
+    "日本円": 10371,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html"
+  },
+  {
+    "title": "The Death of Humanity: and the Case for Life",
+    "日本語タイトル": "人類の死: そして生命の主張",
+    "price": "£58.11",
+    "日本円": 10750,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/the-death-of-humanity-and-the-case-for-life_932/index.html"
+  },
+  {
+    "title": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+    "日本語タイトル": "完全無欠のダイエット: 1 日あたり最大 1 ポンド減量し、エネルギーと集中力を取り戻し、人生をアップグレードする",
+    "price": "£49.05",
+    "日本円": 9074,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html"
+  },
+  {
+    "title": "The Art Forger",
+    "日本語タイトル": "アート偽造者",
+    "price": "£40.76",
+    "日本円": 7540,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/the-art-forger_930/index.html"
+  },
+  {
+    "title": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+    "日本語タイトル": "天才の時代: 17 世紀と近代精神の誕生",
+    "price": "£19.73",
+    "日本円": 3650,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html"
+  },
+  {
+    "title": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+    "日本語タイトル": "活動家のTao Te Ching: 現代革命のための古代のアドバイス",
+    "price": "£32.24",
+    "日本円": 5964,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html"
+  },
+  {
+    "title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+    "日本語タイトル": "Spark Joy: 整理整頓術のイラスト入りマスタークラス",
+    "price": "£41.83",
+    "日本円": 7738,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html"
+  },
+  {
+    "title": "Soul Reader",
+    "日本語タイトル": "ソウルリーダー",
+    "price": "£39.58",
+    "日本円": 7322,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/soul-reader_926/index.html"
+  },
+  {
+    "title": "Security",
+    "日本語タイトル": "安全",
+    "price": "£39.25",
+    "日本円": 7261,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/security_925/index.html"
+  },
+  {
+    "title": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+    "日本語タイトル": "Saga、第 6 巻 (Saga (Collected Editions) #6)",
+    "price": "£25.02",
+    "日本円": 4628,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/saga-volume-6-saga-collected-editions-6_924/index.html"
+  },
+  {
+    "title": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+    "日本語タイトル": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+    "price": "£51.04",
+    "日本円": 9442,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/saga-volume-5-saga-collected-editions-5_923/index.html"
+  },
+  {
+    "title": "Reskilling America: Learning to Labor in the Twenty-First Century",
+    "日本語タイトル": "アメリカの再スキル化: 21 世紀の労働を学ぶ",
+    "price": "£19.83",
+    "日本円": 3668,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html"
+  },
+  {
+    "title": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+    "日本語タイトル": "ラットクイーンズ、Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+    "price": "£50.40",
+    "日本円": 9324,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html"
+  },
+  {
+    "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+    "日本語タイトル": "海月姫 2in1総集編 Vol. 01 (海月姫 2in1 総集編 #1)",
+    "price": "£13.61",
+    "日本円": 2517,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html"
+  },
+  {
+    "title": "Princess Between Worlds (Wide-Awake Princess #5)",
+    "日本語タイトル": "Princess Between Worlds (ワイド・アウェイク・プリンセス #5)",
+    "price": "£13.34",
+    "日本円": 2467,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/princess-between-worlds-wide-awake-princess-5_919/index.html"
+  },
+  {
+    "title": "Pop Gun War, Volume 1: Gift",
+    "日本語タイトル": "ポップ ガン ウォー ボリューム 1: ギフト",
+    "price": "£18.97",
+    "日本円": 3509,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/pop-gun-war-volume-1-gift_918/index.html"
+  },
+  {
+    "title": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+    "日本語タイトル": "政治的自殺: アメリカ政治年代記における失策、ペッカディージョ、悪質な電話、裏部屋でのハイジンクス、卑劣な過去、腐った休憩、そして単なる愚かな間違い",
+    "price": "£36.28",
+    "日本円": 6711,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html"
+  },
+  {
+    "title": "Patience",
+    "日本語タイトル": "忍耐",
+    "price": "£10.16",
+    "日本円": 1879,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/patience_916/index.html"
+  },
+  {
+    "title": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+    "日本語タイトル": "アウトキャスト、Vol. 1: 彼を取り巻く闇 (追放者 #1)",
+    "price": "£15.44",
+    "日本円": 2856,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html"
+  },
+  {
+    "title": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+    "日本語タイトル": "オレンジ色: ザ コンプリート コレクション 1 (オレンジ色: ザ コンプリート コレクション #1)",
+    "price": "£48.41",
+    "日本円": 8955,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html"
+  },
+  {
+    "title": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+    "日本語タイトル": "多忙な著者のためのオンライン マーケティング: ステップバイステップ ガイド",
+    "price": "£46.35",
+    "日本円": 8574,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html"
+  },
+  {
+    "title": "On a Midnight Clear",
+    "日本語タイトル": "真夜中の晴れた日に",
+    "price": "£14.07",
+    "日本円": 2602,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/on-a-midnight-clear_912/index.html"
+  },
+  {
+    "title": "Obsidian (Lux #1)",
+    "日本語タイトル": "黒曜石 (ルクス #1)",
+    "price": "£14.86",
+    "日本円": 2749,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/obsidian-lux-1_911/index.html"
+  },
+  {
+    "title": "My Paris Kitchen: Recipes and Stories",
+    "日本語タイトル": "私のパリのキッチン: レシピとストーリー",
+    "price": "£33.37",
+    "日本円": 6173,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/my-paris-kitchen-recipes-and-stories_910/index.html"
+  },
+  {
+    "title": "Masks and Shadows",
+    "日本語タイトル": "マスクと影",
+    "price": "£56.40",
+    "日本円": 10434,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/masks-and-shadows_909/index.html"
+  },
+  {
+    "title": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+    "日本語タイトル": "ママが試してみた：頭の悪い人、粗野な人、ビーガンの人、タトゥーのある人のための伝統的なイタリア料理",
+    "price": "£14.02",
+    "日本円": 2593,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html"
+  },
+  {
+    "title": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+    "日本語タイトル": "ランバージェーンズ、Vol. 2: 友情を最大限に (ランバージェーン #5-8)",
+    "price": "£46.91",
+    "日本円": 8678,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html"
+  },
+  {
+    "title": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+    "日本語タイトル": "ランバージェーンズ、Vol. 1: Beware the Kitten Holy (ランバージェーン #1-4)",
+    "price": "£45.61",
+    "日本円": 8437,
+    "評価（星）": "★★★☆☆",
+    "detail_url": "http://books.toscrape.com/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html"
+  },
+  {
+    "title": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+    "日本語タイトル": "ランバージェーンズ Vol. 3: 恐ろしい計画 (ランバージェーン #9-12)",
+    "price": "£19.92",
+    "日本円": 3685,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html"
+  },
+  {
+    "title": "Layered: Baking, Building, and Styling Spectacular Cakes",
+    "日本語タイトル": "レイヤード: 素晴らしいケーキを焼き、構築し、スタイリングする",
+    "price": "£40.11",
+    "日本円": 7420,
+    "評価（星）": "★☆☆☆☆",
+    "detail_url": "http://books.toscrape.com/layered-baking-building-and-styling-spectacular-cakes_904/index.html"
+  },
+  {
+    "title": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+    "日本語タイトル": "柔道: 黒帯への 7 つのステップ (初心者向け入門ガイド)",
+    "price": "£53.90",
+    "日本円": 9971,
+    "評価（星）": "★★☆☆☆",
+    "detail_url": "http://books.toscrape.com/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html"
+  },
+  {
+    "title": "Join",
+    "日本語タイトル": "参加する",
+    "price": "£35.67",
+    "日本円": 6598,
+    "評価（星）": "★★★★★",
+    "detail_url": "http://books.toscrape.com/join_902/index.html"
+  },
+  {
+    "title": "In the Country We Love: My Family Divided",
+    "日本語タイトル": "私たちが愛する国で: 私の家族は離散しました",
+    "price": "£22.00",
+    "日本円": 4070,
+    "評価（星）": "★★★★☆",
+    "detail_url": "http://books.toscrape.com/in-the-country-we-love-my-family-divided_901/index.html"
+  }
+]
