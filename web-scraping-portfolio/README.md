@@ -15,27 +15,15 @@
 
 ## 1. 技術スタック
 
-- **Python（文法基礎は一通り習得済み）**
-
+- **Python**（文法基礎は一通り習得済み）
 - **Webスクレイピング・自動化**
-  - 静的ページ: requests, BeautifulSoup4
-  - 動的ページ: Selenium, Playwright（勉強中）
-
-- **データ処理・可視化**  
-  pandas, matplotlib
-
-- **フロントエンド基礎**  
-  HTML, CSS, JavaScript
-
-- **Webアプリ作成**  
-  Flask, Django, Pygame, Pyxel（簡単なアプリ・ゲーム制作経験あり）
-
+  - 静的ページ: `requests`, `BeautifulSoup4`
+  - 動的ページ: `Selenium`, `Playwright`（勉強中）
+- **データ処理・可視化**: `pandas`, `matplotlib`
+- **フロントエンド基礎**: HTML, CSS, JavaScript
+- **Webアプリ作成**: Flask, Django, Pygame, Pyxcel（簡単なアプリ・ゲーム制作経験あり）
 - **CSV / JSON / Excel 出力**
-
-- **翻訳・多言語対応（勉強中）**  
-  googletrans, DeepL
-
-
+- **翻訳・多言語対応（勉強中）**: `googletrans`, `DeepL`
 
 ---
 
@@ -80,6 +68,22 @@
 - 出力データは分析・可視化・レポート作成にそのまま活用可能
 - 定期実行すれば「映画データ集計レポート」として運用可能で、実務案件にも応用しやすい構成
 
+### 07. Books To Scrape（書籍データ自動収集・多形式出力）
+- 「Books to Scrape」サイトから全ページの書籍データを自動取得
+- タイトル、価格（GBP）、日本円換算価格、評価（星）、詳細URL、日本語タイトルを整理して取得
+- Deep Translator を使ってタイトルを日本語に自動翻訳
+- 文字化け対策・エラー時リトライ・ヘッダーランダム化・プロキシ対応済みで、案件レベルの堅牢性
+- CSV / JSON / Excel の3形式で保存
+- 定期実行（schedule ライブラリ対応）すれば、価格推移や評価レポート作成に活用可能
+
+### 08. Quotes To Scrape（動的ページデータ自動収集・多形式出力）
+- 「Quotes to Scrape」JS版サイトから全ページの引用データを自動取得
+- 名言（テキスト）と著者情報を整理して取得
+- Playwright を使って JavaScript 生成コンテンツに対応
+- headless モードで高速実行、ページ遷移やスクロールにも対応可能
+- CSV / JSON / Excel の3形式で保存
+- 動的サイトのスクレイピング案件で活用できる構成
+
 ---
 
 ## 3. 今後挑戦したいこと・学習中
@@ -89,7 +93,8 @@
 - 可視化ライブラリ seaborn / plotly の活用  
 - 高精度の翻訳処理（DeepL API）  
 - Web API の統合データ分析  
-- Python の型ヒントやコード品質向上の学習
+- Python の型ヒントやコード品質向上の学習  
+
 ---
 
 ## 4. お問い合わせ
@@ -99,6 +104,8 @@ Webスクレイピングに関するご相談はお気軽にどうぞ。
 
 - **Email:** nanndemo141@gmail.com  
 - **GitHub:** https://github.com/BSK11RK  
+
+
 
 
 
