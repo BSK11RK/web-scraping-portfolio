@@ -19,7 +19,7 @@
 - **Webスクレイピング・自動化**
   - 静的ページ: `requests`, `BeautifulSoup4`
   - 動的ページ: `Selenium`, `Playwright`（勉強中）
-- **データ処理・可視化**: `pandas`, `matplotlib`
+- **データ処理・可視化・保存**: `pandas`, `matplotlib`, `openpyxl`
 - **フロントエンド基礎**: HTML, CSS, JavaScript
 - **Webアプリ作成**: Flask, Django, Pygame, Pyxcel（簡単なアプリ・ゲーム制作経験あり）
 - **CSV / JSON / Excel 出力**
@@ -84,6 +84,14 @@
 - CSV / JSON / Excel の3形式で保存
 - 動的サイトのスクレイピング案件で活用できる構成
 
+### 09. Quotes To Scrape（英日翻訳付き・全ページ対応）
+- 「Quotes to Scrape」サイトから全ページの引用データを自動取得
+- 名言（英語）と日本語翻訳、著者情報を整理して取得
+- 日本語翻訳部分は「。」ごとに改行を入れて見やすく表示
+- CSV / JSON / Excel の3形式で保存
+- JSONは整形（インデント付き）で出力
+- 静的ページのスクレイピング案件で活用できる構成
+
 ---
 
 ## 3. 今後挑戦したいこと・学習中
@@ -104,6 +112,7 @@ Webスクレイピングに関するご相談はお気軽にどうぞ。
 
 - **Email:** nanndemo141@gmail.com  
 - **GitHub:** https://github.com/BSK11RK  
+
 
 
 
