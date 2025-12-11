@@ -18,12 +18,12 @@
 - **Python**（文法基礎は一通り習得済み）
 - **Webスクレイピング・自動化**
   - 静的ページ: `requests`, `BeautifulSoup4`
-  - 動的ページ: `Selenium`, `Playwright`（勉強中）
+  - 動的ページ: `Selenium`, `Playwright`（実践中）
 - **データ処理・可視化・保存**: `pandas`, `matplotlib`, `openpyxl`
 - **フロントエンド基礎**: HTML, CSS, JavaScript
 - **Webアプリ作成**: Flask, Django, Pygame, Pyxcel（簡単なアプリ・ゲーム制作経験あり）
 - **CSV / JSON / Excel 出力**
-- **翻訳・多言語対応（勉強中）**: `googletrans`, `DeepL`
+- **翻訳・多言語対応（勉強中）**: `googletrans`, `DeepL`, `deep_translator`
 
 ---
 
@@ -92,16 +92,25 @@
 - JSONは整形（インデント付き）で出力
 - 静的ページのスクレイピング案件で活用できる構成
 
+### 010. Wikipedia カテゴリスクレイピング（英日翻訳付き・全記事対応）
+- Wikipedia のカテゴリページから記事一覧を取得
+- 各記事のタイトル・要約（最初の段落）・最終更新日を自動取得
+- deep_translator を使用して「英語タイトル → 日本語タイトル」「英語要約 → 日本語要約」を自動翻訳
+- 英語と日本語は 改行して読みやすく整形
+- Wikipedia は CC-BY-SA のため、スクレイピング・再利用が許可されているサイト
+- CSV / JSON / Excel の3形式で保存
+- 文書情報の要約抽出や翻訳付きスクレイピング案件として応用可能
+
 ---
 
 ## 3. 今後挑戦したいこと・学習中
 
-- Playwright を使った高速な動的スクレイピング  
-- Excel出力の強化（グラフ・表の自動生成）  
-- 可視化ライブラリ seaborn / plotly の活用  
-- 高精度の翻訳処理（DeepL API）  
-- Web API の統合データ分析  
-- Python の型ヒントやコード品質向上の学習  
+- Playwright を使った高速スクレイピング
+- Excel自動レポート生成（グラフ、分析シート）
+- seaborn / plotly による高度な可視化
+- 翻訳API（DeepL API）との連携
+- Web API × 可視化ダッシュボード
+- コード品質（型ヒント、例外処理、リファクタリング）向上 
 
 ---
 
@@ -112,6 +121,7 @@ Webスクレイピングに関するご相談はお気軽にどうぞ。
 
 - **Email:** nanndemo141@gmail.com  
 - **GitHub:** https://github.com/BSK11RK  
+
 
 
 
