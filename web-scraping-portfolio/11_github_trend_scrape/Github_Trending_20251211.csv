@@ -1,0 +1,2 @@
+﻿repository,language,stars,description_en,description_ja,url
+thedotmack/claude-mem,JavaScript,3138,"A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",クロード コード プラグインは、コーディング セッション中にクロードが行うすべてのことを自動的にキャプチャし、AI (クロードのエージェント SDK を使用) で圧縮し、関連するコンテキストを将来のセッションに挿入します。,https://github.com/thedotmack/claude-mem
