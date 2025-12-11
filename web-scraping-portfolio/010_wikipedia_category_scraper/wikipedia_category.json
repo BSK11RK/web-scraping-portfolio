@@ -1,0 +1,248 @@
+[
+  {
+    "title":"Python (programming language)",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Python_(programming_language)",
+    "last_modified":"This page was last edited on 8 December 2025, at 19:22 (UTC)."
+  },
+  {
+    "title":"ActivePython",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/ActivePython",
+    "last_modified":"This page was last edited on 2 December 2025, at 13:13 (UTC)."
+  },
+  {
+    "title":"Anaconda (Python distribution)",
+    "summary_en_ja":"Anaconda is an open source[10][11] data science and artificial intelligence distribution platform for Python and R programming languages. Developed by Anaconda, Inc.,[12]  an American company[1] founded in 2012,[12] the platform is used to develop and manage data science and AI projects.[10] In 2024, Anaconda Inc. has about 300 employees[13] and 45 million users.[14]\nAnaconda は、Python および R プログラミング言語用のオープンソース [10][11] データ サイエンスおよび人工知能配布プラットフォームです。 2012 年に設立されたアメリカの会社 [1] である Anaconda, Inc. [12] によって開発されたこのプラットフォームは、データ サイエンスと AI プロジェクトの開発と管理に使用されています [10]。 2024 年には、Anaconda Inc. の従業員数は約 300 名 [13] 、ユーザー数は 4,500 万人となっています [14]。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Anaconda_(Python_distribution)",
+    "last_modified":"This page was last edited on 6 November 2025, at 22:33 (UTC)."
+  },
+  {
+    "title":"Asynchronous Server Gateway Interface",
+    "summary_en_ja":"The Asynchronous Server Gateway Interface (ASGI) is a calling convention for web servers to forward requests to asynchronous-capable Python frameworks, and applications. It is built as a successor to the Web Server Gateway Interface (WSGI).\nAsynchronous Server Gateway Interface (ASGI) は、Web サーバーがリクエストを非同期対応の Python フレームワークおよびアプリケーションに転送するための呼び出し規約です。これは、Web Server Gateway Interface (WSGI) の後継として構築されています。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Asynchronous_Server_Gateway_Interface",
+    "last_modified":"This page was last edited on 15 June 2025, at 07:21 (UTC)."
+  },
+  {
+    "title":"Biopython",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Biopython",
+    "last_modified":"This page was last edited on 15 November 2025, at 13:45 (UTC)."
+  },
+  {
+    "title":"CircuitPython",
+    "summary_en_ja":"CircuitPython[5] is an open-source derivative of the MicroPython programming language targeted toward students and beginners. Development of CircuitPython is supported by Adafruit Industries. It is a software implementation of the Python 3 programming language, written in C.[3] It has been ported to run on several modern microcontrollers.\nCircuitPython[5] は、学生や初心者を対象とした MicroPython プログラミング言語のオープンソース派生です。 CircuitPython の開発は Adafruit Industries によってサポートされています。これは、C で書かれた Python 3 プログラミング言語のソフトウェア実装です。[3]いくつかの最新のマイクロコントローラーで実行できるように移植されています。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/CircuitPython",
+    "last_modified":"This page was last edited on 18 July 2025, at 10:25 (UTC)."
+  },
+  {
+    "title":"Core Python Programming",
+    "summary_en_ja":"Core Python Programming is a textbook on the Python programming language, written by Wesley J. Chun. The first edition of the book was released on December 14, 2000.[1] The second edition was released several years later on September 18, 2006.[2] Core Python Programming is mainly targeted at higher education students and IT professionals.[3]\n『Core Python Programming』は、Wesley J. Chun によって書かれた Python プログラミング言語の教科書です。この本の初版は 2000 年 12 月 14 日に発売されました [1]。第 2 版は数年後の 2006 年 9 月 18 日にリリースされました [2]。 Core Python プログラミングは主に高等教育の学生と IT プロフェッショナルを対象としています。[3]",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Core_Python_Programming",
+    "last_modified":"This page was last edited on 25 September 2025, at 08:28 (UTC)."
+  },
+  {
+    "title":"Cython",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Cython",
+    "last_modified":"This page was last edited on 7 November 2025, at 03:27 (UTC)."
+  },
+  {
+    "title":"Dive into Python",
+    "summary_en_ja":"Mark Pilgrim is a software developer, writer, and advocate of free software.  He authored a popular blog, and has written several books, including Dive into Python, a guide to the Python programming language published under the GNU Free Documentation License. Formerly an accessibility architect in the IBM Emerging Technologies Group,[2] he started working at Google in March 2007.[3] In 2018, he moved to Brave.[4][failed verification]\nMark Pilgrim は、ソフトウェア開発者、作家、フリー ソフトウェアの提唱者です。  彼は人気ブログを執筆しており、GNU Free Documentation License に基づいて発行されている Python プログラミング言語のガイドである Dive into Python など、数冊の本を執筆しています。以前は IBM Emerging Technologies Group のアクセシビリティ アーキテクトであった [2] が、2007 年 3 月に Google で働き始めました [3]。 2018年にブレイブに移籍 [4] [検証に失敗]",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Dive_into_Python",
+    "last_modified":"This page was last edited on 23 September 2025, at 16:42 (UTC)."
+  },
+  {
+    "title":"Django (web framework)",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Django_(web_framework)",
+    "last_modified":"This page was last edited on 4 December 2025, at 22:11 (UTC)."
+  },
+  {
+    "title":"Django Girls",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Django_Girls",
+    "last_modified":"This page was last edited on 13 June 2025, at 20:02 (UTC)."
+  },
+  {
+    "title":"Docstring",
+    "summary_en_ja":"A docstring is a string literal that annotates an associated section of source code. It provides for the same utility as a comment, but unlike a comment is a string literal and is retained as part of the running program. Some development tools display docstring information as part of an interactive help system.\ndocstring は、ソース コードの関連セクションに注釈を付ける文字列リテラルです。これはコメントと同じユーティリティを提供しますが、コメントとは異なり、文字列リテラルであり、実行中のプログラムの一部として保持されます。一部の開発ツールは、対話型ヘルプ システムの一部として docstring 情報を表示します。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Docstring",
+    "last_modified":"This page was last edited on 17 September 2025, at 11:31 (UTC)."
+  },
+  {
+    "title":"Flask (web framework)",
+    "summary_en_ja":"Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.[2] It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. Extensions exist for object-relational mappers, form validation, upload handling, various open authentication technologies and several common framework related tools.[3]\nFlask は、Python で書かれたマイクロ Web フレームワークです。特定のツールやライブラリを必要としないため、マイクロフレームワークとして分類されます[2]。データベース抽象化レイヤー、フォーム検証、または既存のサードパーティ ライブラリが共通の機能を提供するその他のコンポーネントはありません。ただし、Flask は、Flask 自体に実装されているかのようにアプリケーション機能を追加できる拡張機能をサポートしています。オブジェクト リレーショナル マッパー、フォーム検証、アップロード処理、さまざまなオープン認証テクノロジ、およびいくつかの一般的なフレームワーク関連ツールの拡張機能が存在します。[3]",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Flask_(web_framework)",
+    "last_modified":"This page was last edited on 28 October 2025, at 14:06 (UTC)."
+  },
+  {
+    "title":"Global interpreter lock",
+    "summary_en_ja":"A global interpreter lock (GIL) is a mechanism used in computer-language interpreters to synchronize the execution of threads so that only one native thread (per process) can execute basic operations (such as memory allocation and reference counting) at a time.[1] As a general rule, an interpreter that uses GIL will see only one thread to execute at a time, even if it runs on a multi-core processor, although some implementations provide for CPU intensive code to release the GIL, allowing multiple threads to use multiple cores. Some popular interpreters that have a GIL are CPython and Ruby MRI.\nグローバル インタープリター ロック (GIL) は、コンピューター言語インタープリターでスレッドの実行を同期するために使用されるメカニズムであり、一度に 1 つのネイティブ スレッド (プロセスごと) だけが基本操作 (メモリ割り当てや参照カウントなど) を実行できるようにします。[1]原則として、GIL を使用するインタプリタは、マルチコア プロセッサ上で実行されている場合でも、一度に 1 つのスレッドのみを実行します。ただし、一部の実装では、GIL を解放するために CPU を集中的に使用するコードが提供され、複数のスレッドが複数のコアを使用できるようになります。 GIL を備えた一般的なインタプリタには、CPython と Ruby MRI があります。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Global_interpreter_lock",
+    "last_modified":"This page was last edited on 20 November 2025, at 15:13 (UTC)."
+  },
+  {
+    "title":"History of Python",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/History_of_Python",
+    "last_modified":"This page was last edited on 3 December 2025, at 01:37 (UTC)."
+  },
+  {
+    "title":"List of Python software",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/List_of_Python_software",
+    "last_modified":"This page was last edited on 2 December 2025, at 16:54 (UTC)."
+  },
+  {
+    "title":"MicroPython",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/MicroPython",
+    "last_modified":"This page was last edited on 2 December 2025, at 03:38 (UTC)."
+  },
+  {
+    "title":"Mod python",
+    "summary_en_ja":"mod_python is an Apache HTTP Server module that integrates the Python programming language with the server. It is intended to provide a Python language binding for the Apache HTTP Server.\nmod_python は、Python プログラミング言語をサーバーと統合する Apache HTTP Server モジュールです。これは、Apache HTTP サーバーに Python 言語バインディングを提供することを目的としています。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Mod_python",
+    "last_modified":"This page was last edited on 30 March 2021, at 04:22 (UTC)."
+  },
+  {
+    "title":"Mojo (programming language)",
+    "summary_en_ja":"Mojo is an in-development proprietary programming language based on Python[4][5][6] available for Linux and macOS.[7][8] Mojo aims to combine the usability of a high-level programming language, specifically Python, with the performance of a system programming language such as C++, Rust, and Zig.[9] As of October 2025[update], the Mojo compiler is closed source with an open source standard library. Modular, the company behind Mojo, has stated an intent to eventually open source the Mojo language, as it matures.[10]\nMojo は、Linux および macOS で利用可能な Python をベースとした開発中の独自プログラミング言語です[4][5][6]。 Mojo は、高水準プログラミング言語、特に Python の使いやすさと、C++、Rust、Zig などのシステム プログラミング言語のパフォーマンスを組み合わせることを目的としています。[9] 2025 年 10 月 [更新] の時点で、Mojo コンパイラーはオープンソースの標準ライブラリを備えたクローズド ソースです。 Mojo の背後にある会社である Modular は、Mojo 言語が成熟するにつれて、最終的にはオープンソース化する意向を表明しています[10]。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Mojo_(programming_language)",
+    "last_modified":"This page was last edited on 10 November 2025, at 20:11 (UTC)."
+  },
+  {
+    "title":"Numba",
+    "summary_en_ja":"Numba is an open-source JIT compiler that translates a subset of Python and NumPy into fast machine code using LLVM, via the llvmlite Python package. It offers a range of options for parallelising Python code for CPUs and GPUs, often with only minor code changes.\nNumba は、llvmlite Python パッケージを介して LLVM を使用して、Python と NumPy のサブセットを高速マシン コードに変換するオープンソース JIT コンパイラーです。 CPU と GPU の Python コードを並列化するための幅広いオプションが提供されており、多くの場合、コードの変更はわずかです。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Numba",
+    "last_modified":"This page was last edited on 19 September 2025, at 19:44 (UTC)."
+  },
+  {
+    "title":"NumPy",
+    "summary_en_ja":"NumPy (pronounced \/ˈnʌmpaɪ\/ NUM-py) is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.[3] The predecessor of NumPy, Numeric, was originally created by Jim Hugunin with contributions from several other developers. In 2005, Travis Oliphant created NumPy by incorporating features of the competing Numarray into Numeric, with extensive modifications. NumPy is open-source software and has many contributors. NumPy is fiscally sponsored by NumFOCUS.[4]\nNumPy (\/ˈnʌmpaɪ\/ NUM-py と発音) は、Python プログラミング言語のライブラリであり、大規模な多次元配列と行列のサポートと、これらの配列を操作するための高度な数学関数の大規模なコレクションが追加されています。[3] NumPy の前身である Numeric は、もともと Jim Hugunin によって他の数人の開発者の協力を得て作成されました。 2005 年に、Travis Oliphant は、競合する Numarray の機能を Numeric に組み込み、大幅な変更を加えて NumPy を作成しました。 NumPy はオープンソース ソフトウェアであり、多くの貢献者がいます。 NumPy は NumFOCUS によって財政的に後援されています。[4]",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/NumPy",
+    "last_modified":"This page was last edited on 4 November 2025, at 04:09 (UTC)."
+  },
+  {
+    "title":"Outline of the Python programming language",
+    "summary_en_ja":"The following outline is provided as an overview of and topical guide to Python:\n次の概要は、Python の概要およびトピック別ガイドとして提供されています。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Outline_of_the_Python_programming_language",
+    "last_modified":"This page was last edited on 21 October 2025, at 07:32 (UTC)."
+  },
+  {
+    "title":"Pandas (software)",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Pandas_(software)",
+    "last_modified":"This page was last edited on 1 December 2025, at 01:58 (UTC)."
+  },
+  {
+    "title":"PyLadies",
+    "summary_en_ja":"PyLadies is an international mentorship group which focuses on helping more women become active participants in the Python open-source community.[1][2][3] It is part of the Python Software Foundation.[4] It was started in Los Angeles in 2011. The mission of the group is to create a diverse Python community through outreach, education, conferences and social gatherings. PyLadies also provides funding for women to attend open source conferences. The aim of PyLadies is increasing the participation of women in computing. PyLadies became a multi-chapter organization with the founding of the Washington, D.C.,[5] chapter in August 2011.\nPyLadies は、より多くの女性が Python オープンソース コミュニティに積極的に参加できるよう支援することに重点を置いた国際的なメンターシップ グループです。[1][2][3]これは Python Software Foundation の一部です。[4] 2011 年にロサンゼルスで設立されました。このグループの使命は、アウトリーチ、教育、カンファレンス、懇親会を通じて多様な Python コミュニティを作成することです。 PyLadies は、女性がオープンソース カンファレンスに参加するための資金も提供しています。 PyLadies の目的は、コンピューティングへの女性の参加を増やすことです。 PyLadies は、2011 年 8 月にワシントン D.C. [5] 支部が設立され、複数の支部からなる組織になりました。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/PyLadies",
+    "last_modified":"This page was last edited on 6 May 2025, at 20:35 (UTC)."
+  },
+  {
+    "title":"Pyrex (programming language)",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Pyrex_(programming_language)",
+    "last_modified":"This page was last edited on 8 November 2024, at 16:50 (UTC)."
+  },
+  {
+    "title":"Python Conference",
+    "summary_en_ja":"The Python Conference (also called PyCon[1]: 564 ) is the largest[2][3] annual convention for the discussion and promotion of the Python programming language.[4][5] It originated in the United States but is also held in more than 40 other countries.[6][7][8] It was one of the first computer programming conferences to develop and adhere to a code of conduct.[1]: 565  The conference hosts tutorials, demonstrations and training sessions.[9]\nPython カンファレンス (PyCon[1]: 564 とも呼ばれます) は、Python プログラミング言語の議論と促進を目的とした最大の年次大会です[2][3]。[4][5]。発祥は米国ですが、他の 40 か国以上でも開催されています。[6][7][8]。これは、行動規範を開発し、遵守した最初のコンピューター プログラミング カンファレンスの 1 つです。[1]: 565 このカンファレンスでは、チュートリアル、デモンストレーション、トレーニング セッションが開催されます。[9]",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Python_Conference",
+    "last_modified":"This page was last edited on 25 August 2025, at 15:32 (UTC)."
+  },
+  {
+    "title":"Python for S60",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Python_for_S60",
+    "last_modified":"This page was last edited on 10 September 2025, at 02:44 (UTC)."
+  },
+  {
+    "title":"Python License",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Python_License",
+    "last_modified":"This page was last edited on 16 April 2022, at 00:18 (UTC)."
+  },
+  {
+    "title":"Python Package Index",
+    "summary_en_ja":"The Python Package Index, abbreviated as PyPI (\/ˌpaɪpiˈaɪ\/) and also known as the Cheese Shop (a reference to the Monty Python's Flying Circus sketch \"Cheese Shop\"),[2]: 8 [3]: 742  is the official third-party software repository for Python.[4] It is analogous to the CPAN repository for Perl[5]: 36  and to the CRAN repository for R. PyPI is run by the Python Software Foundation, a charity. Some package managers, including pip, use PyPI as the default source for packages and their dependencies.[6][7]\nPython Package Index は、PyPI (\/ˌpaɪpiˈaɪ\/) と略され、Cheese Shop (モンティ パイソンのフライング サーカスのスケッチ「チーズ ショップ」への言及) としても知られています。[2]: 8 [3]: 742 は、Python の公式サードパーティ ソフトウェア リポジトリです。[4]これは、Perl[5]: 36 の CPAN リポジトリや R の CRAN リポジトリに似ています。PyPI は、慈善団体である Python Software Foundation によって運営されています。 pip を含む一部のパッケージ マネージャーは、パッケージとその依存関係のデフォルト ソースとして PyPI を使用します。[6][7]",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Python_Package_Index",
+    "last_modified":"This page was last edited on 20 November 2025, at 17:50 (UTC)."
+  },
+  {
+    "title":"Python Server Pages",
+    "summary_en_ja":"Python Server Pages (PSP) is a name used by several different implementations of server-side script engines for creating dynamically-generated web pages by embedding Python in HTML. For example, an implementation of Python Server Pages was released with mod_python 3.1 in 2004.[1]\nSpyce, which also claims the phrase \"Python Server Pages\", was first released in 2002.[2]\nThe Webware for Python suite also contains an implementation of Python Server Pages released as early as 2000.[3]\nAn earlier tool with a similar function also called Python Server Pages but based on Java and JPython was first released in 1999.[4]\nPython Server Pages (PSP) は、HTML に Python を埋め込むことによって動的に生成される Web ページを作成するために、サーバー側スクリプト エンジンのいくつかの異なる実装で使用される名前です。たとえば、Python Server Pages の実装は 2004 年に mod_python 3.1 でリリースされました。[1]\n「Python Server Pages」というフレーズも主張する Spyce は、2002 年に初めてリリースされました。[2]\nWebware for Python スイートには、2000 年頃にリリースされた Python Server Pages の実装も含まれています。[3]\n同様の機能を備えた以前のツールは、Python Server Pages とも呼ばれますが、Java と JPython をベースにしており、1999 年に初めてリリースされました [4]。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Python_Server_Pages",
+    "last_modified":"This page was last edited on 11 August 2025, at 02:55 (UTC)."
+  },
+  {
+    "title":"Template:Python sidebar",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Template:Python_sidebar",
+    "last_modified":"This page was last edited on 29 October 2025, at 20:10 (UTC)."
+  },
+  {
+    "title":"Python Software Foundation",
+    "summary_en_ja":"The Python Software Foundation (PSF) is an American nonprofit organization devoted to the Python programming language,[3] launched on March 6, 2001. The mission of the foundation is to foster development of the Python community and is responsible for various processes within the Python community, including developing the core Python distribution, managing intellectual rights, developer conferences including the Python Conference (PyCon), and raising funds.\nPython Software Foundation (PSF) は、Python プログラミング言語を専門とするアメリカの非営利組織で、2001 年 3 月 6 日に設立されました[3]。この財団の使命は、Python コミュニティの発展を促進することであり、コア Python ディストリビューションの開発、知的権利の管理、Python Conference (PyCon) を含む開発者カンファレンス、資金調達など、Python コミュニティ内のさまざまなプロセスを担当しています。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Python_Software_Foundation",
+    "last_modified":"This page was last edited on 7 December 2025, at 18:05 (UTC)."
+  },
+  {
+    "title":"Python Software Foundation License",
+    "summary_en_ja":"\n",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Python_Software_Foundation_License",
+    "last_modified":"This page was last edited on 13 September 2025, at 22:42 (UTC)."
+  },
+  {
+    "title":"Python syntax and semantics",
+    "summary_en_ja":"The syntax of the Python programming language is the set of rules that defines how a Python program will be written and interpreted (by both the runtime system and by human readers). The Python language has many similarities to Perl, C, and Java. However, there are some definite differences between the languages. It supports multiple programming paradigms, including structured, object-oriented programming, and functional programming, and boasts a dynamic type system and automatic memory management.\nPython プログラミング言語の構文は、Python プログラムが (ランタイム システムと人間の読者の両方によって) どのように記述され、解釈されるかを定義する一連のルールです。 Python 言語には、Perl、C、Java と多くの類似点があります。ただし、言語間には決定的な違いがいくつかあります。構造化オブジェクト指向プログラミング、関数型プログラミングなどの複数のプログラミング パラダイムをサポートし、動的型システムと自動メモリ管理を備えています。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Python_syntax_and_semantics",
+    "last_modified":"This page was last edited on 2 December 2025, at 03:20 (UTC)."
+  },
+  {
+    "title":"PythonAnywhere",
+    "summary_en_ja":"PythonAnywhere is an online integrated development environment (IDE) and web hosting service (Platform as a service) based on the Python programming language.[1]  Founded by Giles Thomas and Robert Smithson in 2012, it provides in-browser access to server-based Python and Bash command-line interfaces, along with a code editor with syntax highlighting.  Program files can be transferred to and from the service using the user's browser.  Web applications hosted by the service can be written using any WSGI-based application framework.\nPythonAnywhere は、Python プログラミング言語に基づくオンライン統合開発環境 (IDE) および Web ホスティング サービス (サービスとしてのプラットフォーム) です。[1]  2012 年に Giles Thomas と Robert Smithson によって設立され、サーバーベースの Python および Bash コマンドライン インターフェイスへのブラウザ内アクセスと、構文強調表示を備えたコード エディターを提供します。  ユーザーのブラウザを使用して、サービスとの間でプログラム ファイルを転送できます。  サービスによってホストされる Web アプリケーションは、WSGI ベースのアプリケーション フレームワークを使用して作成できます。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/PythonAnywhere",
+    "last_modified":"This page was last edited on 27 March 2025, at 14:27 (UTC)."
+  },
+  {
+    "title":"RUR-PLE",
+    "summary_en_ja":"RUR - Python Learning Environment (RUR-PLE) is an educational tool to help students learn the Python programming language. Made by André Roberge. RUR-PLE uses the idea behind Karel the Robot, making the learning of Python programming more interesting. A student writes a program that controls a 'robot' that moves through a city consisting of a rectangular grid of streets (left-right) and avenues (up-down).\nRUR - Python 学習環境 (RUR-PLE) は、学生が Python プログラミング言語を学習するのに役立つ教育ツールです。アンドレ・ロベルジュ作。 RUR-PLE は、Karel the Robot の背後にあるアイデアを使用し、Python プログラミングの学習をより興味深いものにします。学生は、道路 (左右) と大通り (上下) の長方形のグリッドで構成される都市内を移動する「ロボット」を制御するプログラムを作成します。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/RUR-PLE",
+    "last_modified":"This page was last edited on 11 August 2025, at 03:01 (UTC)."
+  },
+  {
+    "title":"Scikit-learn",
+    "summary_en_ja":"scikit-learn (formerly scikits.learn and also known as sklearn) is a free and open-source machine learning library for the Python programming language.[3]\nIt features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy. Scikit-learn is a NumFOCUS fiscally sponsored project.[4]\nscikit-learn (旧称 scikits.learn、sklearn とも呼ばれる) は、Python プログラミング言語用の無料のオープンソース機械学習ライブラリです。[3]\nサポートベクター マシン、ランダム フォレスト、勾配ブースティング、K 平均法、DBSCAN などのさまざまな分類、回帰、クラスタリング アルゴリズムを備えており、Python の数値および科学ライブラリである NumPy および SciPy と相互運用するように設計されています。 Scikit-learn は、NumFOCUS が財政的に支援するプロジェクトです。[4]",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Scikit-learn",
+    "last_modified":"This page was last edited on 4 December 2025, at 22:11 (UTC)."
+  },
+  {
+    "title":"SciPy",
+    "summary_en_ja":"SciPy (pronounced \/ˈsaɪpaɪ\/ \"sigh pie\"[3]) is a free and open-source Python library used for scientific computing and technical computing.[4]\nSciPy (\/ˈsaɪpaɪ\/ 「ため息パイ」と発音[3]) は、科学計算および技術計算に使用される無料のオープンソース Python ライブラリです。[4]",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/SciPy",
+    "last_modified":"This page was last edited on 1 December 2025, at 10:50 (UTC)."
+  },
+  {
+    "title":"Spyce (software)",
+    "summary_en_ja":"Spyce is technology similar to PHP that can be used to embed Python code into webpages.  Spyce is free software, distributed under a BSD-style licence, with some additional restrictions about documentation notices.[1][2][3][4][5][6]\nSpyce は、Web ページに Python コードを埋め込むために使用できる PHP に似たテクノロジーです。  Spyce はフリー ソフトウェアであり、BSD スタイルのライセンスに基づいて配布されますが、ドキュメントに関する通知に関していくつかの追加制限があります。[1][2][3][4][5][6]",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Spyce_(software)",
+    "last_modified":"This page was last edited on 11 August 2025, at 03:31 (UTC)."
+  },
+  {
+    "title":"Web Server Gateway Interface",
+    "summary_en_ja":"The Web Server Gateway Interface (WSGI, pronounced whiskey[1][2] or WIZ-ghee[3]) is a simple calling convention for web servers to forward requests to web applications or frameworks written in the Python programming language. The current version of WSGI, version 1.0.1, is specified in Python Enhancement Proposal (PEP) 3333.[4]\nWeb サーバー ゲートウェイ インターフェイス (WSGI、ウィスキー[1][2] または WIZ-ghee[3] と発音) は、Web サーバーが Python プログラミング言語で記述された Web アプリケーションまたはフレームワークにリクエストを転送するための単純な呼び出し規約です。 WSGI の現在のバージョンであるバージョン 1.0.1 は、Python Enhancement Proposal (PEP) 3333 で指定されています。[4]",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Web_Server_Gateway_Interface",
+    "last_modified":"This page was last edited on 12 August 2025, at 20:33 (UTC)."
+  },
+  {
+    "title":"Zen of Python",
+    "summary_en_ja":"The Zen of Python is a collection of 19 \"guiding principles\" for writing computer programs that influence the design of the Python programming language.[1] Python code that aligns with these principles is often referred to as \"Pythonic\".[2]\nZen of Python は、Python プログラミング言語の設計に影響を与えるコンピューター プログラムを作成するための 19 の「指導原則」を集めたものです。[1]これらの原則に沿った Python コードは、「Pythonic」と呼ばれることがよくあります[2]。",
+    "url":"https:\/\/en.wikipedia.org\/wiki\/Zen_of_Python",
+    "last_modified":"This page was last edited on 21 September 2025, at 21:38 (UTC)."
+  }
+]
