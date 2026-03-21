@@ -181,21 +181,3 @@
 
 Webスクレイピングに関するご相談はお気軽にどうぞ。  
 要件に合わせて柔軟に対応いたします。
-
-- **Email:** nanndemo141@gmail.com  
-- **GitHub:** https://github.com/BSK11RK  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
